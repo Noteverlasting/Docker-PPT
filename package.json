@@ -1,0 +1,28 @@
+{
+  "name": "pedra_paper_tissores",
+  "version": "1.0.0",
+  "description": "Joc pedra paper i tissores",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noteverlasting/Docker-PPT.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "docker",
+    "app"
+  ],
+  "author": "Omar Fernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Noteverlasting/Docker-PPT/issues"
+  },
+  "homepage": "https://github.com/Noteverlasting/Docker-PPT#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
